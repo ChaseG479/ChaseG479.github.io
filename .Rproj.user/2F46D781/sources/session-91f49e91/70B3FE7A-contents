@@ -1,0 +1,9 @@
+#HT on Proportions
+prop.test(
+  7,                   #value of x
+  300,                 #value of n
+  p=0.02,              #hypothesized p
+  alternative="greater",  #"two.sided", "less", "greater"
+  conf.level=0.95,     #1-alpha
+  correct = FALSE      #don't use any adjustments to the approximation
+)

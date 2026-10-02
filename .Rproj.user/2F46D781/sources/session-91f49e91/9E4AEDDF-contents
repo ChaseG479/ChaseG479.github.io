@@ -1,0 +1,16 @@
+---
+title: "Chase Gibbons"
+image: Professional Pic.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+    text: GitHub
+    href: https://github.com/ChaseG479
+    - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com/in/chasegibbons
+    - icon: inboxes
+    text: Contact
+    href: mailto:cg184@uark.edu
+---
