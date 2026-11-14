@@ -1,10 +1,6 @@
 ---
 title: "Data Visualization over US Grocery and Gas Prices (2015-2026)"
-author: "Me
-[Adam Harding](https://adamharding.github.io/)
-[Molly Lingenfelter](https://mollylingenfelter.github.io)
-[Ryan Davis](https://ryandavis100.github.io/)
-[Mahala Williamson](https://koala-q0zrgh.my.canva.site/)"
+author: "Me, [Adam Harding](https://adamharding.github.io/), [Molly Lingenfelter](https://mollylingenfelter.github.io), [Ryan Davis](https://ryandavis100.github.io/), [Mahala Williamson](https://koala-q0zrgh.my.canva.site/)"
 date: "2026-11-13"
 categories: [Analysis, PowerPoint, Presentation, Code]
 image: "DV.jpg"
