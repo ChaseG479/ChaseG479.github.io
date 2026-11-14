@@ -2,6 +2,7 @@
 title: "Data Visualization over US Grocery and Gas Prices (2015-2026)"
 author: "Me" "[Adam Harding](https://adamharding.github.io/)" "[Molly Lingenfelter](https://mollylingenfelter.github.io)" "[Ryan Davis](https://ryandavis100.github.io/)" "[Mahala Williamson](https://koala-q0zrgh.my.canva.site/)"
 date: "2026-11-13"
+categories: [Analysis, PowerPoint, Presentation, Code]
 image: "DV.jpg"
 ---
 ![As college students on tight budgets, we notice that some prices at the grocery store and the gas pump seem to fluctuate while others barely move, so we wanted to measure which items are actually the least predictable. In Excel, we created a column of monthly percent changes for each item using the formula = (current month - previous month) / previous month, then used STDEV on each column to find the standard deviation of monthly percent change, which measures how much a price typically swings from one month to the next. We placed the results in a summary table on a separate sheet, labeled each item as Grocery or Fuel and Energy, and split the values into two columns so Excel would plot each category in its own color. We chose a horizontal bar chart so the long item names would be easy to read, sorted the bars from largest to smallest to make the ranking clear, and added data labels to show each exact value. The colors show that fresh produce and eggs are more volatile than gasoline, while electricity is one of the most stable items.](Slide1.JPG)
