@@ -2,8 +2,8 @@
 title: "Resume"
 ---
 
-<iframe width="800" height="1000"
-src="Chase Gibbons Resume.pdf">
+<iframe width="800" height="1000" src="Chase Gibbons Resume.pdf">
 
 </iframe>
----
+
+------------------------------------------------------------------------
